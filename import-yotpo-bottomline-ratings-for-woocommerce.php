@@ -71,7 +71,7 @@ class ImportYotpoBottomlineRatings
       'yotpo_total_reviews', 
       array(
         'type' => 'integer',
-        'description' => 'YOTPO average rating.',
+        'description' => 'YOTPO total reviews.',
         'show_in_rest' => true
       )
     );

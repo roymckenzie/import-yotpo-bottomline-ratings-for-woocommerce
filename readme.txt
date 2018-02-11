@@ -12,7 +12,7 @@ License URI: https://opensource.org/licenses/MIT
 Import Yotpo Bottomline Ratings into your WooCommerce products meta.
 
 == Description ==
-Import Yotpo Bottomline Ratings for WooCommerce connectes to the Yotpo API to import the average rating and the number of reviews as meta fields on your products. You can then use these meta fields to perform custom queries to determine most popular products, most reviewed products, etc.
+Import Yotpo Bottomline Ratings for WooCommerce connects to the Yotpo API to import the average rating and the number of reviews as meta fields on your products. You can then use these meta fields to perform custom queries to determine most popular products, most reviewed products, etc.
 
 Connects to the Yotpo API at regular intervals of your choosing or on-demand to update ratings.
 

@@ -364,11 +364,13 @@ class Import_Yotpo_Bottomline_Ratings
   function iybr_frequency_field_cb() {
     $setting = get_option('iybr-frequency', 1);
     $next_update = wp_next_scheduled( 'iybr_import_hook' );
-    if ( $next_update < time() ) {
+
+    if ( ! empty( $next_update ) && $next_update < time() ) {
       $friendly_next_update = "Next import: Just now.";
     } else {
       $friendly_next_update = empty($next_update) ? '' : 'Next import: ' . human_time_diff( $next_update );
     }
+    
     ?>
     <select name="iybr-frequency" id="iybr-frequency">
       <option value="0" <?php selected(0, $setting) ?>>Never</option>

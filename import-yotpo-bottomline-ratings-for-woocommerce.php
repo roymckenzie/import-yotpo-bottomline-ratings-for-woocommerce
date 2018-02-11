@@ -86,7 +86,7 @@ class Import_Yotpo_Bottomline_Ratings
     return false;
   }
 
-  function iybr_check_requirements( $is_activation = false) {
+  function iybr_check_requirements( $is_activation = false ) {
     if ( ! $this->iybr_is_woocommerce_active() ) {
       deactivate_plugins( plugin_basename( __FILE__ ) );
 

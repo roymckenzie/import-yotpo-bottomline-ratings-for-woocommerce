@@ -4,12 +4,13 @@ defined( 'ABSPATH' ) or die( 'Just what do you think you\'re doing?' );
 
 /*
 Plugin Name:  Import Yotpo Bottomline Ratings for WooCommerce
+Plugin URI:   https://roymckenzie.me/import-yotpo-bottomline-ratings-for-woocommerce/
 Description:  Import Yotpo Bottomline ratings to your WooCommerce products.
 Version:      0.1.0
 Author:       Roy McKenzie
 Author URI:   https://roymckenzie.me/
-License:      MIT
-License URI:  https://opensource.org/licenses/MIT
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 */
 
 

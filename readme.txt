@@ -6,8 +6,8 @@ Requires at least: 4.9.4
 Tested up to: 4.9.4
 Requires PHP: 5.5.38
 Stable tag: trunk
-License: MIT
-License URI: https://opensource.org/licenses/MIT
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Import Yotpo Bottomline Ratings into your WooCommerce products meta.
 
@@ -27,6 +27,7 @@ The meta keys are `yotpo_product_score` and `yotpo_total_reviews`, respectively.
 
 == Screenshots ==
 1. Settings Page.
+2. Custom fields populated with Yotpo ratings and review count.
 
 == Changelog ==
 = 0.1 =

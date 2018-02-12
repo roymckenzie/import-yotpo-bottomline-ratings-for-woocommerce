@@ -11,11 +11,26 @@ Author:       Roy McKenzie
 Author URI:   https://roymckenzie.me/
 License:      GNU General Public License v2 or later
 License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+
+Import Yotpo Bottomline Ratings for WooCommerce is free software: you 
+can redistribute it and/or modify it under the terms of the 
+GNU General Public License as published by the Free Software Foundation, 
+either version 2 of the License, or any later version.
+ 
+Import Yotpo Bottomline Ratings for WooCommerce is distributed 
+in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
+without even the implied warranty of MERCHANTABILITY or FITNESS 
+FOR A PARTICULAR PURPOSE. See the GNU General Public License 
+for more details.
+ 
+You should have received a copy of the GNU General Public License
+along with Import Yotpo Bottomline Ratings for WooCommerce. If not, 
+see http://www.gnu.org/licenses/gpl-2.0.html.
 */
 
 
 /**
-* Import Yotpo Bottomline Ratings class holds all the logic for the app
+* Import_Yotpo_Bottomline_Ratings class holds all the logic for the app
 */
 class Import_Yotpo_Bottomline_Ratings
 {
